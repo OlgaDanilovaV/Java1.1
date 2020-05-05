@@ -7,6 +7,7 @@
 ### В результате тестирования выявлены следующие дефекты:
 
 https://github.com/OlgaDanilovaV/Java1.1/issues/1
+https://github.com/OlgaDanilovaV/Java1.1/issues/2
 
 ## Описание процесса тестирования
 
